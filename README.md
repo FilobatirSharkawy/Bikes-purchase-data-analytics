@@ -44,7 +44,7 @@ The project is organized as follows:
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone [https://github.com/your-username/Bikes-purchase-data-analytics.git](https://github.com/FilobatirSharkawy/Bikes-purchase-data-analytics/blob/main/Bikes%20purchase%20project.xlsx)`
+1. Clone the repository: `git clone https://github.com/FilobatirSharkawy/Bikes-purchase-data-analytics/blob/main/Bikes%20purchase%20project.xlsx`
 2. Open the project in Microsoft Excel.
 3. Review the "Raw Dataset" sheet to understand the initial state of the data.
 4. Explore the "Ready Dataset" sheet to see the cleaned and processed data.
