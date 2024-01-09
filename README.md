@@ -39,18 +39,3 @@ The project is organized as follows:
 - **Pivot Table**: The third sheet includes tables and charts presenting key data insights. These visualizations help to identify trends, patterns, and relationships within the dataset.
 
 - **Dashboard**: The last sheet features an interactive dashboard. It allows users to customize the visualizations, select specific data subsets, and explore the dataset in more depth. The dashboard provides an intuitive and user-friendly interface to interact with the analyzed data.
-
-## Getting Started
-
-To get started with the project, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/FilobatirSharkawy/Bikes-purchase-data-analytics/blob/main/Bikes%20purchase%20project.xlsx`
-2. Open the project in Microsoft Excel.
-3. Review the "Raw Dataset" sheet to understand the initial state of the data.
-4. Explore the "Ready Dataset" sheet to see the cleaned and processed data.
-5. Analyze the insights provided in the "Pivot Table" sheet.
-6. Interact with the data and customize visualizations in the "Dashboard" sheet.
-
-## Contributing
-
-Contributions to the project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
